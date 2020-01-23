@@ -1,2 +1,1 @@
-# cosc381
-Software engineering solutions
+The quick brown fox jumps over the lazy dog.
